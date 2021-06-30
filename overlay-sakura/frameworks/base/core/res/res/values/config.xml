@@ -39,4 +39,7 @@
     -->
     <string name="config_defaultAutofillService" translatable="false">com.google.android.gms/.autofill.service.AutofillService</string>
 
+    <!-- Enable live display -->
+    <bool name="config_liveDisplayAvailable">true</bool>
+
 </resources>
