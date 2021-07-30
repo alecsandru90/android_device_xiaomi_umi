@@ -9,12 +9,12 @@
 <!-- 5. the max nested path can't exceed 10                                 -->
 
 <mixer>
-    <ctl name="ADC1 Volume" value="6" />
-    <ctl name="ADC2 Volume" value="6" />
-    <ctl name="ADC3 Volume" value="6" />
-    <ctl name="ADC4 Volume" value="6" />
+    <ctl name="ADC1 Volume" value="7" />
+    <ctl name="ADC2 Volume" value="7" />
+    <ctl name="ADC3 Volume" value="7" />
+    <ctl name="ADC4 Volume" value="7" />
     <ctl name="TERT_MI2S_RX Channels" value="Two" />
-    <ctl name="TERT_MI2S_RX Format" value="S16_LE" />
+    <ctl name="TERT_MI2S_RX Format" value="S24_LE" />
     <ctl name="TERT_MI2S_RX SampleRate" value="KHZ_48" />
     <ctl name="TERT_MI2S_TX Channels" value="Two" />
     <ctl name="TERT_MI2S_TX Format" value="S24_LE" />
